@@ -8,7 +8,7 @@ Welcome to the Minecraft Crypto Mod, where you can dive into the world of crypto
   
 - **Crypto Market:** Sell your mined cryptocurrencies on the in-game crypto market. Monitor prices and make strategic decisions to maximize your profits.
   
-- **Economic System![Minecraft Crypto Mod Logo](https://github.com/Acevatex/Crypto-Mod-1.20/blob/master/src/main/resources/assets/cryptomod/textures/item/bill1.png):** Accumulate wealth by selling crypto. Spend your earnings on upgrades for your mining operation or purchase valuable items to aid your adventures.
+- **Economic System<img src="https://github.com/Acevatex/Crypto-Mod-1.20/blob/master/src/main/resources/assets/cryptomod/textures/item/bill1.png" alt="Minecraft Crypto Mod Logo" width="16" height="16">:** Accumulate wealth by selling crypto. Spend your earnings on upgrades for your mining operation or purchase valuable items to aid your adventures.
   
 - **Upgrade System:** Improve your mining efficiency, expand your operations, or invest in better equipment using the money you earn from selling crypto.
   
