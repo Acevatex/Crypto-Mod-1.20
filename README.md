@@ -16,8 +16,8 @@ Welcome to the Minecraft Crypto Mod, where you can dive into the world of crypto
 
 ## Installation
 
-1. Download and install Minecraft Forge (if not already installed).
-2. Download the Minecraft Crypto Mod from [GitHub](https://github.com/username/repo).
+1. Download and install Minecraft Fabric (if not already installed).
+2. Download the Minecraft Crypto Mod from [CurseForge](https://www.curseforge.com/minecraft) or [Modrinth](https://modrinth.com/).
 3. Copy the mod JAR file into the 'mods' folder of your Minecraft installation.
 4. Launch Minecraft with the Forge profile.
 
@@ -33,13 +33,9 @@ Welcome to the Minecraft Crypto Mod, where you can dive into the world of crypto
   
 5. **Upgrade and Expand:** Use your earnings to upgrade your mining operation, expand your crypto empire, or purchase valuable items.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request on [GitHub](https://github.com/username/repo).
-
 ## Support
 
-If you encounter any issues or have questions about the mod, please visit our [Discord server](https://discord.gg/minecraftcrypto) for assistance.
+If you encounter any issues or have questions about the mod, please visit our [Discord server](https://discord.gg/bC3vHTD6QC) for assistance.
 
 ## License
 
