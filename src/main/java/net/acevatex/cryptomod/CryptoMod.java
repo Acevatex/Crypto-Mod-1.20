@@ -1,5 +1,6 @@
 package net.acevatex.cryptomod;
 
+import net.acevatex.cryptomod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,7 +12,6 @@ public class CryptoMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
 	}
 }
