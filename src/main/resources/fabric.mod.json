@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cryptomod",
+	"version": "${version}",
+	"name": "Crypto Mod",
+	"description": "A fun side project!",
+	"authors": [
+		"Acevatex"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/cryptomod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.acevatex.cryptomod.CryptoMod"
+		],
+		"client": [
+			"net.acevatex.cryptomod.CryptoModClient"
+		],
+		"fabric-datagen": [
+			"net.acevatex.cryptomod.CryptoModDataGenerator"
+		]
+	},
+	"mixins": [
+		"cryptomod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
